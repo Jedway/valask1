@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  
+  color-scheme: light;
+  background-color: #ffffff;
+  
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.page-transition {
+  transition: opacity 0.3s ease-in-out;
+}
+
+.page-transition.fade-enter {
+  opacity: 0;
+}
+
+.page-transition.fade-enter-active {
+  opacity: 1;
+}
+
+/* Mobile-first media queries */
+@media (max-width: 768px) {
+  :root {
+    font-size: 14px;
+  }
+}
