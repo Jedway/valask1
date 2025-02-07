@@ -6,7 +6,7 @@
 
 <div class="page" in:fade={{ duration: 300 }}>
   <div class="emoji">💞</div>
-  <img src="/src/assets/pic1.jpg" alt="Swans" />
+  <img src="/assets/pic1.jpg" alt="Swans" />
   <Typewriter>
     <p><b>Salutations to the one and only whom I love so much</b></p>
   </Typewriter>

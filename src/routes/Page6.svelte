@@ -3,7 +3,7 @@
 </script>
 
 <div class="page">
-  <img src="/src/assets/pic6.png" alt="Valentine" />
+  <img src="/assets/pic6.png" alt="Valentine" />
   <p>I made this to ask you a question 👉🏽👈🏽</p>
   <button on:click={() => push('/page7')}>What would that be?🧍🏾‍♀️</button>
 </div>

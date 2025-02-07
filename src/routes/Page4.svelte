@@ -4,7 +4,7 @@
 </script>
 
 <div class="page">
-  <img src="/src/assets/pic4.png" alt="Love" />
+  <img src="/assets/pic4.png" alt="Love" />
   <Typewriter>
   <p>You're the most beautiful, most gorgeous, sexiest woman in or out of clothing, you care for me and make me feel warm and fuzzy and comfy, and most importantly you're my princess</p>
   </Typewriter>

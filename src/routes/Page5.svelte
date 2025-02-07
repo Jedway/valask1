@@ -3,7 +3,7 @@
 </script>
 
 <div class="page">
-  <img src="/src/assets/pic5.png" alt="Romance" />
+  <img src="/assets/pic5.png" alt="Romance" />
   <p>And I look forward to when I'll see you again, hold your hands,
     and look into your pretty eyes, tell you how much I love you and press your soft bumbum🍑</p>
   <button on:click={() => push('/page6')}>I know that you know😋</button>

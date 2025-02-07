@@ -4,7 +4,7 @@
 </script>
 
 <div class="page">
-  <img src="/src/assets/pic3.jpg" alt="Couple" />
+  <img src="/assets/pic3.jpg" alt="Couple" />
   <Typewriter>
   <p>And regardless of the situation, argument or circumstance, you always remain on my mind</p>
   </Typewriter>

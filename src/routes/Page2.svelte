@@ -4,7 +4,7 @@
 </script>
 
 <div class="page">
-  <img src="/src/assets/pic2.jpg" alt="Flowers" />
+  <img src="/assets/pic2.jpg" alt="Flowers" />
   <Typewriter>
     <p><i>Our relationship has come this far with a combined official and unofficial length of about a year and 8 months..</i></p>
   </Typewriter>

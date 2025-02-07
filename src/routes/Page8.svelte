@@ -22,12 +22,12 @@
 </script>
 
 <div class="page">
-  <img src="/src/assets/pic8.png" alt="Success" />
+  <img src="/assets/pic8.png" alt="Success" />
   <p>Yusssss🤲🏽 That's my girllllll😚</p>
   <!-- The audio source should be updated to point to your actual audio file -->
   <audio
     bind:this={audio}
-    src="/src/assets/love-song.mp3"
+    src="/assets/love-song.mp3"
     preload="auto"
     loop
   />

@@ -13,7 +13,7 @@
 </script>
 
 <div class="page">
-  <img src="/src/assets/pic7.png" alt="Final" />
+  <img src="/assets/pic7.png" alt="Final" />
   <p>Will you be my valentine on this year of our love, 2025? ❤️</p>
   <div class="button-container">
     <button class="yes" on:click={() => push('/page8')}>Yes honey😍</button>
